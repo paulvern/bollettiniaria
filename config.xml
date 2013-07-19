@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<widget xmlns = "http://www.w3.org/ns/widgets"
+		xmlns:gap = "http://phonegap.com/ns/1.0"
+		id = "it.bolemr.arpaemr"
+		version = "1.0.0"
+		versionCode = "1">
+
+    <name>Bollettini QA Arpa EMR</name>
+
+    <description>
+        La app permette di visualizzare velocemente i bollettini della qualità dell'aria di ARPA EMR
+    </description>
+
+    <author>
+        Paolo Veronesi
+	</author>
+        <icon src="icon.png" />
+   
+<gap:plugin name="com.phonegap.plugins.childbrowser" />
+	
+</widget>
