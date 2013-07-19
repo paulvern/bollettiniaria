@@ -15,6 +15,7 @@
         Paolo Veronesi
 	</author>
         <icon src="icon.png" />
+		<preference name="permissions" value="none"/>
    
 <gap:plugin name="com.phonegap.plugins.childbrowser" />
 	
